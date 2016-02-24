@@ -21,6 +21,7 @@
     "request": "^2.69.0"
   },
   "devDependencies": {
-    "base-64": "^0.1.0"
+    "base-64": "^0.1.0",
+    "vue-strap": "^1.0.7"
   }
 }
